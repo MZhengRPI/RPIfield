@@ -1,2 +1,5 @@
 This folder contains averaged GOG features for person images from camera 1 in RPIfield.
-For example, we have 10 person images of identity 1 appears from t=t_1 to t_2, we first extract GOG feature for all 10 images for person 1, then the GOG features are averaged to get 1 feature vector for the image sequence.
+For example, we have an image sequence of person 1 containing 10 person images, 
+we first extract GOG features for all 10 images for person 1, 
+then 10 GOG feature vectors are averaged to get one feature vector for the image sequence.
+Camera 1 contains 485 image sequences, so we got 485 GOG feature vectors corresponding to each appearance.
