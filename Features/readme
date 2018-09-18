@@ -1,1 +1,2 @@
-This folder contains GOG features for images from camera 1 in RPIfield.
+This folder contains averaged GOG features for person images from camera 1 in RPIfield.
+For example, we have 10 person images of identity 1 appears from t=t_1 to t_2, we first extract GOG feature for all 10 images for person 1, then the GOG features are averaged to get 1 feature vector for the image sequence.
