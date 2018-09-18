@@ -1,1 +1,3 @@
 This folder contains RPIfield data in .mat format.
+Cam_i.mat files collects image names, labels, timestamps for each person image from Cam i.
+Avg_Cam_i.mat files collects averaged timestamps, starting and ending time for each appearance from Cam i.
