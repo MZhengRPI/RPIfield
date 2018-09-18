@@ -31,17 +31,5 @@ for r = 1:length(Rank_choice)
         end
     end
 end
-%%
-% % Duration_ratio = Duration./App_dur;
-% % Duration_sort = sort(Duration_ratio,1,'descend');
-% % for r = 1:length(Rank_choice)
-% %     for p = 1:Num_p
-% %         if (Duration_sort(p,r) ~= 0)
-% %             st = floor(Duration_sort(p+1,r)/0.0001)+1;
-% %             en = floor(Duration_sort(p,r)/0.0001);
-% %             Percent(r,st:en) = p;
-% %         end
-% %     end
-% % end
 Percent = Percent*100./Num_p;
 end
