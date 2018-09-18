@@ -36,7 +36,5 @@ for app = p_appear(2):length(Ids_sort)
     else
         Rank(T:length(Time_range)) = Rank_new;
     end
-    
 end
-
 end
