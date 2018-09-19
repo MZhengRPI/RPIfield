@@ -49,3 +49,10 @@ Please kindly cite the paper if you use this dataset in your research. Enjoy!
   booktitle={IEEE Conference on Computer Vision and Pattern Recognition Workshops},
   year={2018}
 }
+
+@conference{Srik_ICDSC17,
+	author = {S. Karanam and E. Lam and R. J. Radke},
+	title = {Rank Persistence: Assessing the Temporal Performance of Real-World Person Re-Identification.},
+	booktitle = {ICDSC},
+    year=2017
+}
