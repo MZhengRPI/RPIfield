@@ -23,7 +23,7 @@ RPIfield dataset is a new multi-camera multi-shot re-id dataset collected at Ren
 More details can be found in this [paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w36/Zheng_RPIfield_A_New_CVPR_2018_paper.pdf)
 
 ## How to access
-1. Download the dataset from [here] (https://drive.google.com/file/d/1GO1zm7vCAJwXgJtoFyUs367_Knz8Ev0A/view?usp=sharing) and extract the files.
+1. Download the dataset from [Google Drive] (https://drive.google.com/file/d/1GO1zm7vCAJwXgJtoFyUs367_Knz8Ev0A/view?usp=sharing) or [Baidu Disk] (https://pan.baidu.com/s/1TsPRkRQwI_i88zPQqGC3oQ) (Extract Code：RPIf) and extract the files.
 2. There are 4 items inside the package.
 - "Data". This folder has 12 subfolders (Cam_1 to Cam_12) for 12 camera views. 
 In each folder "Cam_", we include image sequence(s) for each identity at different times in different subfolder(s) with name as the label of the identity.
